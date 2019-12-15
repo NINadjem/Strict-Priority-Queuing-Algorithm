@@ -20,37 +20,30 @@ public class SpqApp {
        wList.add('a');
        wList.add('c');
        inputList.add(new SPQ.InputElement(1, wList));
-       
        wList=new ArrayList<>();
        wList.add('b');
        wList.add('c');
        inputList.add(new SPQ.InputElement(2, wList));
-       
        wList=new ArrayList<>();
        wList.add('a');
        wList.add('b');
        inputList.add(new SPQ.InputElement(3, wList));
-       
        wList=new ArrayList<>();
        wList.add('a');
        wList.add('c');
        inputList.add(new SPQ.InputElement(3.5, wList));
-       
        wList=new ArrayList<>();
        wList.add('b');
        wList.add('c');
        inputList.add(new SPQ.InputElement(4, wList));
-       
        wList=new ArrayList<>();
        wList.add('a');
        wList.add('b');
        inputList.add(new SPQ.InputElement(5, wList));
-       
        wList=new ArrayList<>();
        wList.add('a');
        wList.add('c');
        inputList.add(new SPQ.InputElement(5.5, wList));
-       
        new SPQ(inputList).printTheResult();
        
        // 2eme exemple 
