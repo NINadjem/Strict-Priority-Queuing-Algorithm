@@ -15,7 +15,7 @@ public class SpqApp {
 
 
     public static void main(String[] args) {
-       /*ArrayList<SPQ.InputElement> inputList=new ArrayList();
+       ArrayList<SPQ.InputElement> inputList=new ArrayList();
        ArrayList<Character> wList=new ArrayList<>();
        wList.add('a');
        wList.add('c');
@@ -51,7 +51,7 @@ public class SpqApp {
        wList.add('c');
        inputList.add(new SPQ.InputElement(5.5, wList));
        
-       new SPQ(inputList).printTheResult();*/
+       new SPQ(inputList).printTheResult();
        
        // 2eme exemple 
         /*ArrayList<SPQ.InputElement> inputList = new ArrayList();
@@ -151,8 +151,7 @@ public class SpqApp {
         wList.add('c');
         inputList.add(new SPQ.InputElement(7, wList));
         new SPQ(inputList).printTheResult();*/
-        /*SPQ.InputElement.alphabets.add('a');SPQ.InputElement.alphabets.add('b');SPQ.InputElement.alphabets.add('c');
-        ArrayList list=new ArrayList<Character>();list.add('a');list.add('b');list.add('c');list.add('b');SPQ.lastChar='b';list.sort(SPQ.comparator);System.out.println(list);*/
+       
    
        
     }
