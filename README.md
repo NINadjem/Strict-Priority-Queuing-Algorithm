@@ -2,11 +2,14 @@
 
  This is a simple implementation of the Strict Priority Queuing Algorithm that is actually used in scheduling...
  
+ well it's also a part of our miserable practical work so I thought that it would be a nice thing to share...
+ 
  ## I/O of the Algorithm  
  
  * input  : an Array that contiens times ( as doubles ) 🕖 and their waiting lists ( as a char list ). 📜
  
- * output : an Array that contiens token elements ( as a char ) 🆎 with their relative time of end of execution ( as double ) 🕣.
+ * output : an Array that contiens token elements ( as a char ) 🆎 
+            with their relative time of end of execution ( as double ) 🕣.
  
  Well, I know that what this isn't clear enough, that's why there are some screenshots i👇 👇 👇 👇 👇 👇
  
