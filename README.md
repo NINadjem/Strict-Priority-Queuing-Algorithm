@@ -18,12 +18,12 @@
  
  | Input ( Graphic ) | Input ( Structured ) |
 | ------------- |:-------------:|
-| ![alt text](https://github.com/NINadjem/Strict-Priority-Queuing-Algorithm/blob/master/Screenshots/graphic_representation_of_problem.png "Input ( Graphic )" )| ![alt text](https://github.com/NINadjem/Strict-Priority-Queuing-Algorithm/blob/master/Screenshots/input.png "Input ( Structured )" ) |
+| ![alt text](https://github.com/NINadjem/Strict-Priority-Queuing-Algorithm/blob/master/Screenshots/graphic_representation_of_problem.jpg "Input ( Graphic )" )| ![alt text](https://github.com/NINadjem/Strict-Priority-Queuing-Algorithm/blob/master/Screenshots/input.PNG "Input ( Structured )" ) |
 
 
 | Ouput ( Graphic ) | Output |
 | ------------- |:-------------:|
-| ![alt text](https://github.com/NINadjem/Strict-Priority-Queuing-Algorithm/blob/master/Screenshots/graphic_representation_of_solution.png "Ouput ( Graphic )" ) | ![alt text](https://github.com/NINadjem/Strict-Priority-Queuing-Algorithm/blob/master/Screenshots/output.png "Output" ) |
+| ![alt text](https://github.com/NINadjem/Strict-Priority-Queuing-Algorithm/blob/master/Screenshots/graphic_representation_of_solution.jpg "Ouput ( Graphic )" ) | ![alt text](https://github.com/NINadjem/Strict-Priority-Queuing-Algorithm/blob/master/Screenshots/output.PNG "Output" ) |
 
 ## IDE & Programming language 🔧
 
